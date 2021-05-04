@@ -1,2 +1,5 @@
-# Machine_Learning
-In this repository, I will frequently update my Machine Learning works.
+# Machine Learning by Stanford University in Python
+
+[Machine Learning by Stanford University](https://www.coursera.org/learn/machine-learning) is one of the finest and oldest courses on [Coursera](https://www.coursera.org/). This online course is taught by [Professor Andrew Ng](https://www.coursera.org/instructor/andrewng) who is also the Founder of [DeepLearning.AI](https://www.deeplearning.ai/), Chairman and Co-Founder of Coursera, and an Adjunct Professor at [Stanford University](https://www.stanford.edu/).
+
+In this course, the language for the programming assignments is MATLAB/Octave. But today the leading programming language in Machine Learning sector is definitely Python. This repository contains my programming assignment works for this particular course in Python. The original Python version of the assignment files can be found [here](https://github.com/dibgerge/ml-coursera-python-assignments).
